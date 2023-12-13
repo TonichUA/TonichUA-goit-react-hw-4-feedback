@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TonichUA-goit-react-hw-4-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/TonichUA-goit-react-hw-4-feedback/static/js/main.07d3183d.js",
+    "index.html": "/TonichUA-goit-react-hw-4-feedback/index.html",
+    "main.7acaea2f.css.map": "/TonichUA-goit-react-hw-4-feedback/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/TonichUA-goit-react-hw-4-feedback/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
